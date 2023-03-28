@@ -1,0 +1,30 @@
+class Constants:
+    UPDATE = "UPDATE"
+    BASELINE = "BASELINE"
+    BUY_CHECK = "BUY_CHECK"
+    ROBINHOOD = "ROBINHOOD"
+    TEST_API = "TEST_API"
+    FILLED = "filled"
+    BUY = "buy"
+    SELL = 'sell'
+
+    # transaction states
+    COMPLETED = "COMPLETED"
+    PENDING_SALE = "PENDING_SALE"
+    NO_SELL_ORDER = "NO_SELL_ORDER"
+
+    # order statuses
+    FAILED = "FAILED"
+    SUCCESS = "SUCCESS"
+    FAILED_LENGTH = 1
+
+    # log levels
+    BUY_LEVEL = 6
+    SELL_LEVEL = 7
+    BASELINE_UPDATE_LEVEL = 8
+    INITIAL_PRICE_LEVEL = 9
+
+    BUY_VALUE = "BUY"
+    SELL_VALUE = "SELL"
+    BASELINE_UPDATE_VALUE = "BASELINE_UPDATE"
+    INITIAL_PRICE_VALUE = "INITIAL_PRICE"

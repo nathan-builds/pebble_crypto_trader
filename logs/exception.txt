@@ -1,0 +1,310 @@
+C:\Other\Projects\Pebble\venv\Scripts\python.exe C:/Other/Projects/Pebble/main.py
+done
+INFO - 2022-01-12 08:08:28,361 - Account -  INITIAL_BASE_PRICE FOR ETH is 3317.3
+INFO - 2022-01-12 08:08:28,521 - Account -  INITIAL_BASE_PRICE FOR BTC is 43374.502924
+INFO - 2022-01-12 08:08:29,094 - CoinThreadLogger - Coin Thread for ETH has started.
+INFO - 2022-01-12 08:08:29,094 - CoinThreadLogger - Coin Thread for BTC has started.
+INFO - 2022-01-12 08:38:29,485 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43934.724029
+INFO - 2022-01-12 08:38:29,485 - Trader -  BTC BASE_PRICE IS:43374.502924, CURRENT_PRICE IS: 43934.724029, PERCENT_CHANGE IS: 1.2915908361684418
+INFO - 2022-01-12 08:38:29,487 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3357.6
+INFO - 2022-01-12 08:38:29,487 - Trader -  ETH BASE_PRICE IS:3317.3, CURRENT_PRICE IS: 3357.6, PERCENT_CHANGE IS: 1.214843396738303
+INFO - 2022-01-12 09:08:30,037 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43876.27
+INFO - 2022-01-12 09:08:30,037 - Trader -  BTC BASE_PRICE IS:43374.502924, CURRENT_PRICE IS: 43876.27, PERCENT_CHANGE IS: 1.1568249597676852
+INFO - 2022-01-12 09:08:30,041 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3367.29
+INFO - 2022-01-12 09:08:30,041 - Trader -  ETH BASE_PRICE IS:3317.3, CURRENT_PRICE IS: 3367.29, PERCENT_CHANGE IS: 1.5069484219093776
+INFO - 2022-01-12 09:38:30,433 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43888.01
+INFO - 2022-01-12 09:38:30,434 - Trader -  BTC BASE_PRICE IS:43374.502924, CURRENT_PRICE IS: 43888.01, PERCENT_CHANGE IS: 1.183891552370662
+INFO - 2022-01-12 09:38:30,445 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3376.75
+INFO - 2022-01-12 09:38:30,445 - Trader -  ETH BASE_PRICE IS:3317.3, CURRENT_PRICE IS: 3376.75, PERCENT_CHANGE IS: 1.792120097669786
+INFO - 2022-01-12 10:08:30,921 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3383.73
+INFO - 2022-01-12 10:08:30,922 - Trader -  ETH BASE_PRICE IS:3317.3, CURRENT_PRICE IS: 3383.73, PERCENT_CHANGE IS: 2.0025321797847595
+INFO - 2022-01-12 10:08:30,925 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43923.19
+INFO - 2022-01-12 10:08:30,925 - Trader -  BTC BASE_PRICE IS:43374.502924, CURRENT_PRICE IS: 43923.19, PERCENT_CHANGE IS: 1.2649991101025442
+INFO - 2022-01-12 10:38:31,334 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43688.55
+INFO - 2022-01-12 10:38:31,335 - Trader -  BTC BASE_PRICE IS:43374.502924, CURRENT_PRICE IS: 43688.55, PERCENT_CHANGE IS: 0.724036138351303
+INFO - 2022-01-12 10:38:31,403 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3369.583229
+INFO - 2022-01-12 10:38:31,404 - Trader -  ETH BASE_PRICE IS:3317.3, CURRENT_PRICE IS: 3369.583229, PERCENT_CHANGE IS: 1.5760778042383763
+INFO - 2022-01-12 11:08:31,793 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43581.36
+INFO - 2022-01-12 11:08:31,793 - Trader -  BTC BASE_PRICE IS:43374.502924, CURRENT_PRICE IS: 43581.36, PERCENT_CHANGE IS: 0.4769093869789156
+INFO - 2022-01-12 11:08:31,797 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3364.543805
+INFO - 2022-01-12 11:08:31,797 - Trader -  ETH BASE_PRICE IS:3317.3, CURRENT_PRICE IS: 3364.543805, PERCENT_CHANGE IS: 1.4241643806710158
+INFO - 2022-01-12 11:38:32,187 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43742.38
+INFO - 2022-01-12 11:38:32,188 - Trader -  BTC BASE_PRICE IS:43374.502924, CURRENT_PRICE IS: 43742.38, PERCENT_CHANGE IS: 0.8481413069899255
+INFO - 2022-01-12 11:38:32,200 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3376.12
+INFO - 2022-01-12 11:38:32,200 - Trader -  ETH BASE_PRICE IS:3317.3, CURRENT_PRICE IS: 3376.12, PERCENT_CHANGE IS: 1.7731287492840475
+INFO - 2022-01-12 12:08:32,324 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43638.65
+INFO - 2022-01-12 12:08:32,324 - Trader -  BTC BASE_PRICE IS:43374.502924, CURRENT_PRICE IS: 43638.65, PERCENT_CHANGE IS: 0.608991592279074
+INFO - 2022-01-12 12:08:33,105 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3370.845697
+INFO - 2022-01-12 12:08:33,105 - Trader -  ETH BASE_PRICE IS:3317.3, CURRENT_PRICE IS: 3370.845697, PERCENT_CHANGE IS: 1.614134898863534
+INFO - 2022-01-12 12:38:32,432 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43822.049169
+INFO - 2022-01-12 12:38:32,432 - Trader -  BTC BASE_PRICE IS:43374.502924, CURRENT_PRICE IS: 43822.049169, PERCENT_CHANGE IS: 1.0318187295060879
+INFO - 2022-01-12 12:38:33,231 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3387.07993
+INFO - 2022-01-12 12:38:33,232 - Trader -  ETH BASE_PRICE IS:3317.3, CURRENT_PRICE IS: 3387.07993, PERCENT_CHANGE IS: 2.1035158110511465
+INFO - 2022-01-12 13:08:32,616 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43967.312096
+INFO - 2022-01-12 13:08:32,616 - Trader -  BTC BASE_PRICE IS:43374.502924, CURRENT_PRICE IS: 43967.312096, PERCENT_CHANGE IS: 1.3667226873785974
+INFO - 2022-01-12 13:08:33,433 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3388.31
+INFO - 2022-01-12 13:08:33,433 - Trader -  ETH BASE_PRICE IS:3317.3, CURRENT_PRICE IS: 3388.31, PERCENT_CHANGE IS: 2.14059626804931
+INFO - 2022-01-12 13:38:32,799 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43817.287403
+INFO - 2022-01-12 13:38:32,799 - Trader -  BTC BASE_PRICE IS:43374.502924, CURRENT_PRICE IS: 43817.287403, PERCENT_CHANGE IS: 1.0208404688252923
+INFO - 2022-01-12 13:38:33,659 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3385.48
+INFO - 2022-01-12 13:38:33,659 - Trader -  ETH BASE_PRICE IS:3317.3, CURRENT_PRICE IS: 3385.48, PERCENT_CHANGE IS: 2.055285925300691
+INFO - 2022-01-12 14:08:29,249 - Trader -  BASELINE Update was triggered for ETH with a price of $3376.97
+INFO - 2022-01-12 14:08:29,249 - Trader -  ETH BASE_PRICE IS:3317.3, CURRENT_PRICE IS: 3385.48, PERCENT_CHANGE IS: 2.055285925300691
+INFO - 2022-01-12 14:08:29,349 - Trader -  BASELINE Update was triggered for BTC with a price of $43690.62
+INFO - 2022-01-12 14:08:29,352 - Trader -  ETH BASE_PRICE IS:3317.3, CURRENT_PRICE IS: 3385.48, PERCENT_CHANGE IS: 2.055285925300691
+INFO - 2022-01-12 14:08:32,941 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43691.87
+INFO - 2022-01-12 14:08:32,941 - Trader -  BTC BASE_PRICE IS:43690.62, CURRENT_PRICE IS: 43691.87, PERCENT_CHANGE IS: 0.002861026005124212
+INFO - 2022-01-12 14:08:33,792 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3376.58
+INFO - 2022-01-12 14:08:33,792 - Trader -  ETH BASE_PRICE IS:3376.97, CURRENT_PRICE IS: 3376.58, PERCENT_CHANGE IS: -0.01154881446977239
+INFO - 2022-01-12 14:38:33,094 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43767.09
+INFO - 2022-01-12 14:38:33,094 - Trader -  BTC BASE_PRICE IS:43690.62, CURRENT_PRICE IS: 43767.09, PERCENT_CHANGE IS: 0.1750261268894648
+INFO - 2022-01-12 14:38:33,980 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3387.850589
+INFO - 2022-01-12 14:38:33,981 - Trader -  ETH BASE_PRICE IS:3376.97, CURRENT_PRICE IS: 3387.850589, PERCENT_CHANGE IS: 0.3221997530330541
+INFO - 2022-01-12 15:08:33,215 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43800.74
+INFO - 2022-01-12 15:08:33,216 - Trader -  BTC BASE_PRICE IS:43690.62, CURRENT_PRICE IS: 43800.74, PERCENT_CHANGE IS: 0.2520449469474119
+INFO - 2022-01-12 15:08:34,110 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3387.974421
+INFO - 2022-01-12 15:08:34,110 - Trader -  ETH BASE_PRICE IS:3376.97, CURRENT_PRICE IS: 3387.974421, PERCENT_CHANGE IS: 0.3258667089136147
+INFO - 2022-01-12 15:38:33,617 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43782.72
+INFO - 2022-01-12 15:38:33,617 - Trader -  BTC BASE_PRICE IS:43690.62, CURRENT_PRICE IS: 43782.72, PERCENT_CHANGE IS: 0.2108003960575486
+INFO - 2022-01-12 15:38:34,229 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3381.61
+INFO - 2022-01-12 15:38:34,230 - Trader -  ETH BASE_PRICE IS:3376.97, CURRENT_PRICE IS: 3381.61, PERCENT_CHANGE IS: 0.13740127984555173
+INFO - 2022-01-12 16:08:33,990 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $44017.96
+INFO - 2022-01-12 16:08:33,990 - Trader -  BTC BASE_PRICE IS:43690.62, CURRENT_PRICE IS: 44017.96, PERCENT_CHANGE IS: 0.7492226020138796
+INFO - 2022-01-12 16:08:34,352 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3392.54
+INFO - 2022-01-12 16:08:34,352 - Trader -  ETH BASE_PRICE IS:3376.97, CURRENT_PRICE IS: 3392.54, PERCENT_CHANGE IS: 0.46106420844722235
+INFO - 2022-01-12 16:38:34,391 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43967.958253
+INFO - 2022-01-12 16:38:34,391 - Trader -  BTC BASE_PRICE IS:43690.62, CURRENT_PRICE IS: 43967.958253, PERCENT_CHANGE IS: 0.6347775632389616
+INFO - 2022-01-12 16:38:34,611 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3380.33961
+INFO - 2022-01-12 16:38:34,611 - Trader -  ETH BASE_PRICE IS:3376.97, CURRENT_PRICE IS: 3380.33961, PERCENT_CHANGE IS: 0.09978205314231971
+INFO - 2022-01-12 17:08:34,873 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43878.32
+INFO - 2022-01-12 17:08:34,873 - Trader -  BTC BASE_PRICE IS:43690.62, CURRENT_PRICE IS: 43878.32, PERCENT_CHANGE IS: 0.42961166492944497
+INFO - 2022-01-12 17:08:34,891 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3374.9
+INFO - 2022-01-12 17:08:34,891 - Trader -  ETH BASE_PRICE IS:3376.97, CURRENT_PRICE IS: 3374.9, PERCENT_CHANGE IS: -0.06129755372418793
+INFO - 2022-01-12 17:38:35,352 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3390.063021
+INFO - 2022-01-12 17:38:35,352 - Trader -  ETH BASE_PRICE IS:3376.97, CURRENT_PRICE IS: 3390.063021, PERCENT_CHANGE IS: 0.3877150522509864
+INFO - 2022-01-12 17:38:35,352 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $44006.530309
+INFO - 2022-01-12 17:38:35,352 - Trader -  BTC BASE_PRICE IS:43690.62, CURRENT_PRICE IS: 44006.530309, PERCENT_CHANGE IS: 0.723062087468658
+INFO - 2022-01-12 18:08:35,832 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3370.06
+INFO - 2022-01-12 18:08:35,833 - Trader -  ETH BASE_PRICE IS:3376.97, CURRENT_PRICE IS: 3370.06, PERCENT_CHANGE IS: -0.2046213025285938
+INFO - 2022-01-12 18:08:35,833 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $44004.48
+INFO - 2022-01-12 18:08:35,833 - Trader -  BTC BASE_PRICE IS:43690.62, CURRENT_PRICE IS: 44004.48, PERCENT_CHANGE IS: 0.7183692975746294
+INFO - 2022-01-12 18:38:36,256 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3386.7
+INFO - 2022-01-12 18:38:36,257 - Trader -  ETH BASE_PRICE IS:3376.97, CURRENT_PRICE IS: 3386.7, PERCENT_CHANGE IS: 0.28812811484851863
+INFO - 2022-01-12 18:38:36,271 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $44112.05
+INFO - 2022-01-12 18:38:36,271 - Trader -  BTC BASE_PRICE IS:43690.62, CURRENT_PRICE IS: 44112.05, PERCENT_CHANGE IS: 0.964577751471598
+INFO - 2022-01-12 19:08:36,654 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3388.53
+INFO - 2022-01-12 19:08:36,654 - Trader -  ETH BASE_PRICE IS:3376.97, CURRENT_PRICE IS: 3388.53, PERCENT_CHANGE IS: 0.34231870582209495
+INFO - 2022-01-12 19:08:36,657 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $44131.53
+INFO - 2022-01-12 19:08:36,657 - Trader -  BTC BASE_PRICE IS:43690.62, CURRENT_PRICE IS: 44131.53, PERCENT_CHANGE IS: 1.0091639807354442
+INFO - 2022-01-12 19:38:37,068 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43968.82
+INFO - 2022-01-12 19:38:37,068 - Trader -  BTC BASE_PRICE IS:43690.62, CURRENT_PRICE IS: 43968.82, PERCENT_CHANGE IS: 0.6367499477004379
+INFO - 2022-01-12 19:38:37,079 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3382.229334
+INFO - 2022-01-12 19:38:37,079 - Trader -  ETH BASE_PRICE IS:3376.97, CURRENT_PRICE IS: 3382.229334, PERCENT_CHANGE IS: 0.1557412117963828
+INFO - 2022-01-12 20:08:29,374 - Trader -  BASELINE Update was triggered for ETH with a price of $3365.781745
+INFO - 2022-01-12 20:08:29,374 - Trader -  ETH BASE_PRICE IS:3376.97, CURRENT_PRICE IS: 3382.229334, PERCENT_CHANGE IS: 0.1557412117963828
+INFO - 2022-01-12 20:08:29,644 - Trader -  BASELINE Update was triggered for BTC with a price of $43894.45
+INFO - 2022-01-12 20:08:29,644 - Trader -  ETH BASE_PRICE IS:3376.97, CURRENT_PRICE IS: 3382.229334, PERCENT_CHANGE IS: 0.1557412117963828
+INFO - 2022-01-12 20:08:37,194 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43893.2
+INFO - 2022-01-12 20:08:37,195 - Trader -  BTC BASE_PRICE IS:43894.45, CURRENT_PRICE IS: 43893.2, PERCENT_CHANGE IS: -0.002847740431876923
+INFO - 2022-01-12 20:08:37,292 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3366.41
+INFO - 2022-01-12 20:08:37,292 - Trader -  ETH BASE_PRICE IS:3365.781745, CURRENT_PRICE IS: 3366.41, PERCENT_CHANGE IS: 0.01866594591088321
+INFO - 2022-01-12 20:38:37,315 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43708.51
+INFO - 2022-01-12 20:38:37,316 - Trader -  BTC BASE_PRICE IS:43894.45, CURRENT_PRICE IS: 43708.51, PERCENT_CHANGE IS: -0.42360708472254477
+INFO - 2022-01-12 20:38:37,561 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3347.69
+INFO - 2022-01-12 20:38:37,561 - Trader -  ETH BASE_PRICE IS:3365.781745, CURRENT_PRICE IS: 3347.69, PERCENT_CHANGE IS: -0.5375198503847052
+INFO - 2022-01-12 21:08:37,478 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43679.16
+INFO - 2022-01-12 21:08:37,479 - Trader -  BTC BASE_PRICE IS:43894.45, CURRENT_PRICE IS: 43679.16, PERCENT_CHANGE IS: -0.49047203006301165
+INFO - 2022-01-12 21:08:37,688 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3342.3
+INFO - 2022-01-12 21:08:37,688 - Trader -  ETH BASE_PRICE IS:3365.781745, CURRENT_PRICE IS: 3342.3, PERCENT_CHANGE IS: -0.697660953057418
+INFO - 2022-01-12 21:38:37,653 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43779.57
+INFO - 2022-01-12 21:38:37,653 - Trader -  BTC BASE_PRICE IS:43894.45, CURRENT_PRICE IS: 43779.57, PERCENT_CHANGE IS: -0.26171873665121076
+INFO - 2022-01-12 21:38:37,819 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3351.01
+INFO - 2022-01-12 21:38:37,819 - Trader -  ETH BASE_PRICE IS:3365.781745, CURRENT_PRICE IS: 3351.01, PERCENT_CHANGE IS: -0.4388800617254389
+INFO - 2022-01-12 22:08:37,781 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43679.94
+INFO - 2022-01-12 22:08:37,782 - Trader -  BTC BASE_PRICE IS:43894.45, CURRENT_PRICE IS: 43679.94, PERCENT_CHANGE IS: -0.48869504003352315
+INFO - 2022-01-12 22:08:37,926 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3338.47375
+INFO - 2022-01-12 22:08:37,927 - Trader -  ETH BASE_PRICE IS:3365.781745, CURRENT_PRICE IS: 3338.47375, PERCENT_CHANGE IS: -0.8113418239482331
+INFO - 2022-01-12 22:38:38,056 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43647.767587
+INFO - 2022-01-12 22:38:38,057 - Trader -  BTC BASE_PRICE IS:43894.45, CURRENT_PRICE IS: 43647.767587, PERCENT_CHANGE IS: -0.5619899850664378
+INFO - 2022-01-12 22:38:38,061 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3341.76
+INFO - 2022-01-12 22:38:38,061 - Trader -  ETH BASE_PRICE IS:3365.781745, CURRENT_PRICE IS: 3341.76, PERCENT_CHANGE IS: -0.7137047741044052
+INFO - 2022-01-12 23:08:38,168 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3353.05
+INFO - 2022-01-12 23:08:38,168 - Trader -  ETH BASE_PRICE IS:3365.781745, CURRENT_PRICE IS: 3353.05, PERCENT_CHANGE IS: -0.37827007110348426
+INFO - 2022-01-12 23:08:38,264 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43711.734459
+INFO - 2022-01-12 23:08:38,264 - Trader -  BTC BASE_PRICE IS:43894.45, CURRENT_PRICE IS: 43711.734459, PERCENT_CHANGE IS: -0.4162611469103674
+INFO - 2022-01-12 23:38:38,625 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3356.93
+INFO - 2022-01-12 23:38:38,625 - Trader -  ETH BASE_PRICE IS:3365.781745, CURRENT_PRICE IS: 3356.93, PERCENT_CHANGE IS: -0.2629922458029119
+INFO - 2022-01-12 23:38:38,629 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43770.457006
+INFO - 2022-01-12 23:38:38,630 - Trader -  BTC BASE_PRICE IS:43894.45, CURRENT_PRICE IS: 43770.457006, PERCENT_CHANGE IS: -0.2824798898266186
+INFO - 2022-01-13 00:08:38,994 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43753.7
+INFO - 2022-01-13 00:08:38,994 - Trader -  BTC BASE_PRICE IS:43894.45, CURRENT_PRICE IS: 43753.7, PERCENT_CHANGE IS: -0.3206555726293415
+INFO - 2022-01-13 00:08:39,004 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3342.115719
+INFO - 2022-01-13 00:08:39,004 - Trader -  ETH BASE_PRICE IS:3365.781745, CURRENT_PRICE IS: 3342.115719, PERCENT_CHANGE IS: -0.7031360852543894
+INFO - 2022-01-13 00:38:39,955 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43816.46
+INFO - 2022-01-13 00:38:39,955 - Trader -  BTC BASE_PRICE IS:43894.45, CURRENT_PRICE IS: 43816.46, PERCENT_CHANGE IS: -0.17767622102566036
+INFO - 2022-01-13 00:38:39,956 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3347.14
+INFO - 2022-01-13 00:38:39,956 - Trader -  ETH BASE_PRICE IS:3365.781745, CURRENT_PRICE IS: 3347.14, PERCENT_CHANGE IS: -0.5538607792288653
+INFO - 2022-01-13 01:08:40,809 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3348.9
+INFO - 2022-01-13 01:08:40,809 - Trader -  ETH BASE_PRICE IS:3365.781745, CURRENT_PRICE IS: 3348.9, PERCENT_CHANGE IS: -0.5015698069275637
+INFO - 2022-01-13 01:08:40,815 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43852.827007
+INFO - 2022-01-13 01:08:40,815 - Trader -  BTC BASE_PRICE IS:43894.45, CURRENT_PRICE IS: 43852.827007, PERCENT_CHANGE IS: -0.09482518404945779
+ERROR: There was an issue loading pickle file. Authentication may be expired - logging in normally.
+Exception in thread Thread-597:
+Traceback (most recent call last):
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\urllib3\connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\urllib3\connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Python\lib\http\client.py", line 1347, in getresponse
+    response.begin()
+  File "C:\Python\lib\http\client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "C:\Python\lib\http\client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Python\lib\socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Python\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Python\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+TimeoutError: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\urllib3\connectionpool.py", line 755, in urlopen
+    retries = retries.increment(
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\urllib3\util\retry.py", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\urllib3\packages\six.py", line 769, in reraise
+    raise value.with_traceback(tb)
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\urllib3\connectionpool.py", line 699, in urlopen
+    httplib_response = self._make_request(
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\urllib3\connectionpool.py", line 445, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\urllib3\connectionpool.py", line 440, in _make_request
+    httplib_response = conn.getresponse()
+  File "C:\Python\lib\http\client.py", line 1347, in getresponse
+    response.begin()
+  File "C:\Python\lib\http\client.py", line 307, in begin
+    version, status, reason = self._read_status()
+  File "C:\Python\lib\http\client.py", line 268, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Python\lib\socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Python\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Python\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+urllib3.exceptions.ProtocolError: ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python\lib\threading.py", line 954, in _bootstrap_inner
+    self.run()
+  File "C:\Python\lib\threading.py", line 1266, in run
+    self.function(*self.args, **self.kwargs)
+  File "C:\Other\Projects\Pebble\trader.py", line 158, in trigger_order_evaluation
+    self.evaluate_orders()
+  File "C:\Other\Projects\Pebble\trader.py", line 167, in evaluate_orders
+    order_list = self.market_api.get_all_orders()
+  File "C:\Other\Projects\Pebble\api\robinhood_api.py", line 98, in get_all_orders
+    all_orders = rs.get_all_crypto_orders()
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\robin_stocks\robinhood\helper.py", line 33, in login_wrapper
+    return(func(*args, **kwargs))
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\robin_stocks\robinhood\orders.py", line 51, in get_all_crypto_orders
+    data = request_get(url, 'pagination')
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\robin_stocks\robinhood\helper.py", line 275, in request_get
+    res = SESSION.get(url, params=payload)
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\requests\sessions.py", line 555, in get
+    return self.request('GET', url, **kwargs)
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\requests\sessions.py", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\requests\sessions.py", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Other\Projects\Pebble\venv\lib\site-packages\requests\adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))
+INFO - 2022-01-13 01:38:41,218 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3354.8
+INFO - 2022-01-13 01:38:41,218 - Trader -  ETH BASE_PRICE IS:3365.781745, CURRENT_PRICE IS: 3354.8, PERCENT_CHANGE IS: -0.3262762065993555
+INFO - 2022-01-13 01:38:41,224 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43918.0
+INFO - 2022-01-13 01:38:41,224 - Trader -  BTC BASE_PRICE IS:43894.45, CURRENT_PRICE IS: 43918.0, PERCENT_CHANGE IS: 0.05365142973656786
+INFO - 2022-01-13 02:08:29,909 - Trader -  BASELINE Update was triggered for BTC with a price of $43836.94
+INFO - 2022-01-13 02:08:29,909 - Trader -  BTC BASE_PRICE IS:43894.45, CURRENT_PRICE IS: 43918.0, PERCENT_CHANGE IS: 0.05365142973656786
+INFO - 2022-01-13 02:08:29,983 - Trader -  BASELINE Update was triggered for ETH with a price of $3351.81
+INFO - 2022-01-13 02:08:29,983 - Trader -  BTC BASE_PRICE IS:43894.45, CURRENT_PRICE IS: 43918.0, PERCENT_CHANGE IS: 0.05365142973656786
+INFO - 2022-01-13 02:08:41,340 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3351.44
+INFO - 2022-01-13 02:08:41,341 - Trader -  ETH BASE_PRICE IS:3351.81, CURRENT_PRICE IS: 3351.44, PERCENT_CHANGE IS: -0.011038811865824462
+INFO - 2022-01-13 02:08:41,395 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43836.439116
+INFO - 2022-01-13 02:08:41,395 - Trader -  BTC BASE_PRICE IS:43836.94, CURRENT_PRICE IS: 43836.439116, PERCENT_CHANGE IS: -0.0011426071254082774
+INFO - 2022-01-13 02:38:41,806 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43775.1
+INFO - 2022-01-13 02:38:41,807 - Trader -  BTC BASE_PRICE IS:43836.94, CURRENT_PRICE IS: 43775.1, PERCENT_CHANGE IS: -0.14106824062081838
+INFO - 2022-01-13 02:38:41,812 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3348.312417
+INFO - 2022-01-13 02:38:41,812 - Trader -  ETH BASE_PRICE IS:3351.81, CURRENT_PRICE IS: 3348.312417, PERCENT_CHANGE IS: -0.10434908303274498
+INFO - 2022-01-13 03:08:42,358 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3352.536412
+INFO - 2022-01-13 03:08:42,358 - Trader -  ETH BASE_PRICE IS:3351.81, CURRENT_PRICE IS: 3352.536412, PERCENT_CHANGE IS: 0.021672230824539042
+INFO - 2022-01-13 03:08:42,363 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43892.298529
+INFO - 2022-01-13 03:08:42,363 - Trader -  BTC BASE_PRICE IS:43836.94, CURRENT_PRICE IS: 43892.298529, PERCENT_CHANGE IS: 0.12628283132900553
+INFO - 2022-01-13 03:38:42,786 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43970.05
+INFO - 2022-01-13 03:38:42,786 - Trader -  BTC BASE_PRICE IS:43836.94, CURRENT_PRICE IS: 43970.05, PERCENT_CHANGE IS: 0.30364801922762075
+INFO - 2022-01-13 03:38:42,801 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3364.35
+INFO - 2022-01-13 03:38:42,801 - Trader -  ETH BASE_PRICE IS:3351.81, CURRENT_PRICE IS: 3364.35, PERCENT_CHANGE IS: 0.37412621837156534
+INFO - 2022-01-13 04:08:43,310 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3361.8
+INFO - 2022-01-13 04:08:43,310 - Trader -  ETH BASE_PRICE IS:3351.81, CURRENT_PRICE IS: 3361.8, PERCENT_CHANGE IS: 0.29804792037735545
+INFO - 2022-01-13 04:08:43,325 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43924.04
+INFO - 2022-01-13 04:08:43,326 - Trader -  BTC BASE_PRICE IS:43836.94, CURRENT_PRICE IS: 43924.04, PERCENT_CHANGE IS: 0.1986908757773662
+INFO - 2022-01-13 04:38:43,821 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3380.2
+INFO - 2022-01-13 04:38:43,822 - Trader -  ETH BASE_PRICE IS:3351.81, CURRENT_PRICE IS: 3380.2, PERCENT_CHANGE IS: 0.8470050510022906
+INFO - 2022-01-13 04:38:43,826 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $44000.55
+INFO - 2022-01-13 04:38:43,826 - Trader -  BTC BASE_PRICE IS:43836.94, CURRENT_PRICE IS: 44000.55, PERCENT_CHANGE IS: 0.37322404346653887
+INFO - 2022-01-13 05:08:44,302 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $44133.011901
+INFO - 2022-01-13 05:08:44,302 - Trader -  BTC BASE_PRICE IS:43836.94, CURRENT_PRICE IS: 44133.011901, PERCENT_CHANGE IS: 0.6753936314897794
+INFO - 2022-01-13 05:08:44,308 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3383.150074
+INFO - 2022-01-13 05:08:44,308 - Trader -  ETH BASE_PRICE IS:3351.81, CURRENT_PRICE IS: 3383.150074, PERCENT_CHANGE IS: 0.9350194074246507
+INFO - 2022-01-13 05:38:44,780 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3377.07
+INFO - 2022-01-13 05:38:44,780 - Trader -  ETH BASE_PRICE IS:3351.81, CURRENT_PRICE IS: 3377.07, PERCENT_CHANGE IS: 0.7536226695427312
+INFO - 2022-01-13 05:38:44,784 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $44077.56
+INFO - 2022-01-13 05:38:44,784 - Trader -  BTC BASE_PRICE IS:43836.94, CURRENT_PRICE IS: 44077.56, PERCENT_CHANGE IS: 0.5488978017169888
+INFO - 2022-01-13 06:08:45,180 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43858.886053
+INFO - 2022-01-13 06:08:45,180 - Trader -  BTC BASE_PRICE IS:43836.94, CURRENT_PRICE IS: 43858.886053, PERCENT_CHANGE IS: 0.050062921818903566
+INFO - 2022-01-13 06:08:45,185 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3358.15
+INFO - 2022-01-13 06:08:45,185 - Trader -  ETH BASE_PRICE IS:3351.81, CURRENT_PRICE IS: 3358.15, PERCENT_CHANGE IS: 0.1891515330522955
+INFO - 2022-01-13 06:38:45,735 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43815.35
+INFO - 2022-01-13 06:38:45,735 - Trader -  BTC BASE_PRICE IS:43836.94, CURRENT_PRICE IS: 43815.35, PERCENT_CHANGE IS: -0.049250700436672325
+INFO - 2022-01-13 06:38:45,740 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3352.81
+INFO - 2022-01-13 06:38:45,740 - Trader -  ETH BASE_PRICE IS:3351.81, CURRENT_PRICE IS: 3352.81, PERCENT_CHANGE IS: 0.029834626664399237
+INFO - 2022-01-13 07:08:46,311 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43909.912487
+INFO - 2022-01-13 07:08:46,311 - Trader -  BTC BASE_PRICE IS:43836.94, CURRENT_PRICE IS: 43909.912487, PERCENT_CHANGE IS: 0.1664634598126582
+INFO - 2022-01-13 07:08:46,311 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3361.822667
+INFO - 2022-01-13 07:08:46,311 - Trader -  ETH BASE_PRICE IS:3351.81, CURRENT_PRICE IS: 3361.822667, PERCENT_CHANGE IS: 0.29872418185994926
+INFO - 2022-01-13 07:38:46,736 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43907.904761
+INFO - 2022-01-13 07:38:46,736 - Trader -  BTC BASE_PRICE IS:43836.94, CURRENT_PRICE IS: 43907.904761, PERCENT_CHANGE IS: 0.16188347316212223
+INFO - 2022-01-13 07:38:46,736 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3366.699183
+INFO - 2022-01-13 07:38:46,736 - Trader -  ETH BASE_PRICE IS:3351.81, CURRENT_PRICE IS: 3366.699183, PERCENT_CHANGE IS: 0.44421321614292664
+INFO - 2022-01-13 08:08:30,308 - Trader -  BASELINE Update was triggered for ETH with a price of $3375.32
+INFO - 2022-01-13 08:08:30,308 - Trader -  ETH BASE_PRICE IS:3351.81, CURRENT_PRICE IS: 3366.699183, PERCENT_CHANGE IS: 0.44421321614292664
+INFO - 2022-01-13 08:08:30,315 - Trader -  BASELINE Update was triggered for BTC with a price of $43911.59
+INFO - 2022-01-13 08:08:30,316 - Trader -  ETH BASE_PRICE IS:3351.81, CURRENT_PRICE IS: 3366.699183, PERCENT_CHANGE IS: 0.44421321614292664
+INFO - 2022-01-13 08:08:46,849 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43887.04
+INFO - 2022-01-13 08:08:46,849 - Trader -  BTC BASE_PRICE IS:43911.59, CURRENT_PRICE IS: 43887.04, PERCENT_CHANGE IS: -0.055907791086580186
+INFO - 2022-01-13 08:08:46,860 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3373.137558
+INFO - 2022-01-13 08:08:46,860 - Trader -  ETH BASE_PRICE IS:3375.32, CURRENT_PRICE IS: 3373.137558, PERCENT_CHANGE IS: -0.06465881753434533
+INFO - 2022-01-13 08:38:47,237 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3381.22334
+INFO - 2022-01-13 08:38:47,237 - Trader -  ETH BASE_PRICE IS:3375.32, CURRENT_PRICE IS: 3381.22334, PERCENT_CHANGE IS: 0.17489719493262398
+INFO - 2022-01-13 08:38:47,244 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $43952.25
+INFO - 2022-01-13 08:38:47,244 - Trader -  BTC BASE_PRICE IS:43911.59, CURRENT_PRICE IS: 43952.25, PERCENT_CHANGE IS: 0.09259514401551731
+INFO - 2022-01-13 09:08:47,620 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $44128.87
+INFO - 2022-01-13 09:08:47,621 - Trader -  BTC BASE_PRICE IS:43911.59, CURRENT_PRICE IS: 44128.87, PERCENT_CHANGE IS: 0.4948124174050772
+INFO - 2022-01-13 09:08:47,623 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3383.696454
+INFO - 2022-01-13 09:08:47,623 - Trader -  ETH BASE_PRICE IS:3375.32, CURRENT_PRICE IS: 3383.696454, PERCENT_CHANGE IS: 0.24816769965513608
+INFO - 2022-01-13 09:38:48,079 - Trader -  BUY_CHECK Update was triggered for BTC with a price of $44428.92
+INFO - 2022-01-13 09:38:48,080 - Trader -  BTC BASE_PRICE IS:43911.59, CURRENT_PRICE IS: 44428.92, PERCENT_CHANGE IS: 1.1781172123350618
+INFO - 2022-01-13 09:38:48,080 - Trader -  BUY_CHECK Update was triggered for ETH with a price of $3414.58
+INFO - 2022-01-13 09:38:48,080 - Trader -  ETH BASE_PRICE IS:3375.32, CURRENT_PRICE IS: 3414.58, PERCENT_CHANGE IS: 1.1631489755045377

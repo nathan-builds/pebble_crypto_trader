@@ -1,0 +1,25 @@
+{
+  "coins": [
+    {
+      "coinName": "ETH",
+      "apiName": "ETH",
+      "buyThreshold": -2,
+      "sellThreshold": 2,
+      "maxPos": 100,
+      "baselineTimer": 21602,
+      "buyCheckTimer": 1800,
+      "dollarTradeAmount": 200
+    },
+    {
+      "coinName": "BTC",
+      "apiName": "BTC",
+      "buyThreshold": -2,
+      "sellThreshold": 2,
+      "maxPos": 100,
+      "baselineTimer": 21602,
+      "buyCheckTimer": 1800,
+      "dollarTradeAmount": 200
+    }
+  ]
+}
+
